@@ -34,7 +34,8 @@ const findCustomer = async () => {
 };
 //Add the customerss
 const addCust = (async = () => {
-  let newCust = new Customer({
-    name: "Aish",
-  });
+    let newCust = new Customer({
+        name: "Aish",
+    });
 });
+//Add the functions
