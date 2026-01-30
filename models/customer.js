@@ -40,4 +40,4 @@ const addCust = (async = () => {
 });
 
 //function for new order
-let newOrder = 
+let newOrder = new 
