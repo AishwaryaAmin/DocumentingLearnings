@@ -38,4 +38,4 @@ const addCust = (async = () => {
         name: "Aish",
     });
 });
-//Add the functions
+//Add the function
