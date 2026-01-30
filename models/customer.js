@@ -32,7 +32,7 @@ const findCustomer = async () => {
   let result = await Customer.find({}).populate("orders");
   console.log(result[0]);
 };
-//Add the customerss
+//Add the customers
 const addCust = (async = () => {
     let newCust = new Customer({
         name: "Aish",
